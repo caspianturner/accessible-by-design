@@ -7,6 +7,21 @@ fields:
   label: block
   name: block
   default: header-1
+- name: site_name
+  type: field_group
+  config: {}
+  fields:
+  - name: site_title
+    type: text
+    config:
+      required: false
+    label: Site title
+  - name: site_link
+    type: text
+    config:
+      required: false
+    label: site link
+  label: Site name
 - type: field_group_list
   name: navigation
   label: Navigation
