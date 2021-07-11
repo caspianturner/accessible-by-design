@@ -8,16 +8,17 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: ''
-    link_text: About us
+    link_text: Who we are
+  - link_text: What we do
+    link: ''
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    button_text: Get in touch
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: 'Accessible by Design '
+  content: ''
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
@@ -63,14 +64,10 @@ page_sections:
   slug: blocks
 - template: detail-content
   block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based demo that doubles as a builder
-    tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import
-    this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
-    Blocks and preview them as you go along.</p></li></ol>
+  headline: ''
+  content: "<p></p>"
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: "<br>"
 
 ---
