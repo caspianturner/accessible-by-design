@@ -13,6 +13,10 @@ page_sections:
     link_text: Who we are
   - link: "/what-we-do"
     link_text: What we do
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
 - template: simple-footer
   block: footer-1
   content: Subscribe
