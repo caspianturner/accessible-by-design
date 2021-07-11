@@ -7,9 +7,11 @@ fields:
   label: block
   name: block
   default: header-2
-- type: file
-  name: logo
-  label: Logo
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 - type: field_group_list
   name: navigation
   label: Navigation
