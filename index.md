@@ -11,9 +11,6 @@ page_sections:
     link_text: Who we are
   - link_text: What we do
     link: ''
-  cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Get in touch
 - template: simple-footer
   block: footer-1
   content: Subscribe
