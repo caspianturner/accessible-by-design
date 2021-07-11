@@ -14,6 +14,7 @@ page_sections:
   cta:
     url: ''
     button_text: ''
+  title: Accessible by Design
 - template: simple-footer
   block: footer-1
   content: Subscribe
