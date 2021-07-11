@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: ''
   navigation:
-  - link: ''
+  - link: "/who-we-are"
     link_text: Who we are
   - link_text: What we do
     link: ''
