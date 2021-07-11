@@ -14,30 +14,6 @@ page_sections:
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Get in touch
-- template: hero-banner-w-image
-  block: hero-2
-  slug: features
-  headline: 'Accessible by Design '
-  content: ''
-  cta:
-    enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
-  image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
-  media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -57,15 +33,6 @@ page_sections:
     The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
     create new sites and make them fully customizable.
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
-- template: detail-content
-  block: text-1
-  headline: ''
-  content: "<p></p>"
 - template: simple-footer
   block: footer-1
   content: "<br>"
