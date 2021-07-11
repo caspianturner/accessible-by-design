@@ -7,6 +7,18 @@ fields:
   label: block
   name: block
   default: header-3
-- type: file
-  label: Logo
-  name: logo
+- name: simple_header_group
+  type: field_group
+  config: {}
+  fields:
+  - name: site_name
+    type: text
+    config:
+      required: false
+    label: Site name
+  - name: sitelink
+    type: text
+    config:
+      required: false
+    label: sitelink
+  label: Simple Header Group
