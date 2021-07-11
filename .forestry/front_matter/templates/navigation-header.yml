@@ -2,11 +2,6 @@
 label: navigation-header
 hide_body: false
 fields:
-- type: text
-  hidden: true
-  label: block
-  name: block
-  default: header-1
 - name: site_name
   type: field_group
   config: {}
