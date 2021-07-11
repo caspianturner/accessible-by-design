@@ -6,7 +6,9 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
-  navigation: []
+  navigation:
+  - link: ''
+    link_text: About us
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
