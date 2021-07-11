@@ -16,6 +16,6 @@ page_sections:
     button_text: Get in touch
 - template: simple-footer
   block: footer-1
-  content: "<br>Subscribe"
+  content: Subscribe
 
 ---
