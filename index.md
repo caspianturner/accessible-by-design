@@ -8,7 +8,11 @@ page_sections:
   site_name:
     site_title: Accessible by Design
     site_link: https://accessiblebydesign.co.uk
-  navigation: []
+  navigation:
+  - link: "/who-we-are"
+    link_text: Who we are
+  - link: "/what-we-do"
+    link_text: What we do
 - template: simple-footer
   block: footer-1
   content: Subscribe
